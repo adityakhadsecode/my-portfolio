@@ -8,7 +8,7 @@ Built incrementally, one viewport section at a time, reviewed before moving on. 
 **Goal:** A blank but correctly configured project to build on top of.
 - **Done when:** app boots to an empty page with tokens and fonts loading correctly, no console errors, at desktop, tablet, and mobile viewport widths.
 
-## Phase 1 — Intro Sequence *(current)*
+## Phase 1 — Intro Sequence
 **Goal:** The pre-content moment
 - **Done when:** sequence runs correctly on desktop, tablet, and mobile (text scale/perspective adapts per breakpoint); reduced-motion users get a fallback; no layout shift handing off to homepage; numeral list is complete and correctly ordered 1–100.
 
